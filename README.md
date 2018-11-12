@@ -1,2 +1,2 @@
-# fct
+# haveFUN
 Python Functional Programming Utility
